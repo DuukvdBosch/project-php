@@ -1,3 +1,5 @@
 <?php
 
-phpinfo();
+$jim = "Bart Simpson";
+
+echo $jim;
